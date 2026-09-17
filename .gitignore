@@ -1,0 +1,15 @@
+node_modules
+dist
+.DS_Store
+.env
+
+# Ignore the output video from Git but not videos you import into src/.
+out
+
+# A snapshot and a built timeline hold a real wiki's file paths and raw version messages.
+# The invented example is the exception — see CONTRIBUTING.md § Privacy.
+/data/*
+!/data/example/
+/public/timelines/*
+!/public/timelines/.gitkeep
+__pycache__

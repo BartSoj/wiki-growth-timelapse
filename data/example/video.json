@@ -1,0 +1,33 @@
+{
+ "title": "example-wiki",
+ "subtitle": "a made-up wiki, to see this working",
+ "claim": "",
+ "unit": "pages",
+ "pageGlob": "*.md",
+ "order": [
+  "notes",
+  "sources",
+  "questions",
+  "guides",
+  "_meta",
+  "."
+ ],
+ "timing": {
+  "openingSeconds": 3,
+  "growthSeconds": 24,
+  "pullbackSeconds": 2,
+  "holdSeconds": 6
+ },
+ "exclude": [],
+ "forbid": [],
+ "bookkeepingPattern": "^check\\b",
+ "bookkeeping": {},
+ "captions": {
+  "1": "init \u00b7 the schema and the log",
+  "4": "ingest \u00b7 what is still missing",
+  "8": "schema \u00b7 an open question",
+  "13": "sweep \u00b7 what the sources agree on",
+  "18": "grow \u00b7 what the sources agree on",
+  "23": "ingest \u00b7 a second reading"
+ }
+}

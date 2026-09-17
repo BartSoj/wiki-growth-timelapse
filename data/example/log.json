@@ -1,0 +1,122 @@
+[
+ {
+  "date": "2026-05-05",
+  "op": "init",
+  "subject": "the schema and the log"
+ },
+ {
+  "date": "2026-05-07",
+  "op": "schema",
+  "subject": "the first pass"
+ },
+ {
+  "date": "2026-05-09",
+  "op": "sweep",
+  "subject": "a reference walked through"
+ },
+ {
+  "date": "2026-05-09",
+  "op": "ingest",
+  "subject": "what is still missing"
+ },
+ {
+  "date": "2026-05-10",
+  "op": "grow",
+  "subject": "the parts that changed"
+ },
+ {
+  "date": "2026-05-10",
+  "op": "sweep",
+  "subject": "the parts that changed"
+ },
+ {
+  "date": "2026-05-11",
+  "op": "grow",
+  "subject": "an open question"
+ },
+ {
+  "date": "2026-05-12",
+  "op": "schema",
+  "subject": "an open question"
+ },
+ {
+  "date": "2026-05-13",
+  "op": "sweep",
+  "subject": "the first pass"
+ },
+ {
+  "date": "2026-05-17",
+  "op": "ingest",
+  "subject": "the parts that changed"
+ },
+ {
+  "date": "2026-05-17",
+  "op": "check",
+  "subject": "a second reading"
+ },
+ {
+  "date": "2026-05-18",
+  "op": "schema",
+  "subject": "the parts that changed"
+ },
+ {
+  "date": "2026-05-20",
+  "op": "sweep",
+  "subject": "what the sources agree on"
+ },
+ {
+  "date": "2026-05-24",
+  "op": "grow",
+  "subject": "what is still missing"
+ },
+ {
+  "date": "2026-05-26",
+  "op": "check",
+  "subject": "the first pass"
+ },
+ {
+  "date": "2026-05-30",
+  "op": "schema",
+  "subject": "the parts that changed"
+ },
+ {
+  "date": "2026-05-30",
+  "op": "schema",
+  "subject": "an open question"
+ },
+ {
+  "date": "2026-05-30",
+  "op": "grow",
+  "subject": "what the sources agree on"
+ },
+ {
+  "date": "2026-05-31",
+  "op": "sweep",
+  "subject": "what is still missing"
+ },
+ {
+  "date": "2026-06-01",
+  "op": "schema",
+  "subject": "three loose ends"
+ },
+ {
+  "date": "2026-06-01",
+  "op": "grow",
+  "subject": "three loose ends"
+ },
+ {
+  "date": "2026-06-02",
+  "op": "grow",
+  "subject": "three loose ends"
+ },
+ {
+  "date": "2026-06-02",
+  "op": "ingest",
+  "subject": "a second reading"
+ },
+ {
+  "date": "2026-06-03",
+  "op": "schema",
+  "subject": "what the sources agree on"
+ }
+]

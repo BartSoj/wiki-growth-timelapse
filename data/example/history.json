@@ -1,0 +1,363 @@
+[
+ {
+  "version": 1,
+  "createdAt": "2026-05-05T10:07:11Z",
+  "message": "init | the schema and the log",
+  "author": "example",
+  "sha": "0000000000000000000000000000000000000001",
+  "filesChanged": [
+   "_meta/page-01.md",
+   "_meta/page-02.md",
+   "guides/page-01.md",
+   "guides/page-02.md",
+   "notes/page-01.md",
+   "notes/page-02.md",
+   "notes/page-03.md",
+   "notes/page-04.md",
+   "page-01.md"
+  ]
+ },
+ {
+  "version": 2,
+  "createdAt": "2026-05-07T11:14:11Z",
+  "message": "schema | the first pass",
+  "author": "example",
+  "sha": "0000000000000000000000000000000000000002",
+  "filesChanged": [
+   "_meta/page-03.md",
+   "_meta/page-04.md",
+   "guides/page-03.md",
+   "notes/page-05.md",
+   "notes/page-06.md",
+   "notes/page-07.md",
+   "sources/page-01.md",
+   "sources/page-02.md"
+  ]
+ },
+ {
+  "version": 3,
+  "createdAt": "2026-05-09T12:21:11Z",
+  "message": "sweep | a reference walked through",
+  "author": "example",
+  "sha": "0000000000000000000000000000000000000003",
+  "filesChanged": [
+   "_meta/page-05.md",
+   "guides/page-04.md",
+   "guides/page-05.md",
+   "notes/page-02.md",
+   "notes/page-05.md",
+   "notes/page-08.md",
+   "notes/page-09.md",
+   "notes/page-10.md",
+   "sources/page-03.md",
+   "sources/page-04.md"
+  ]
+ },
+ {
+  "version": 4,
+  "createdAt": "2026-05-09T13:28:11Z",
+  "message": "ingest | what is still missing",
+  "author": "example",
+  "sha": "0000000000000000000000000000000000000004",
+  "filesChanged": [
+   "_meta/page-03.md",
+   "_meta/page-06.md",
+   "notes/page-09.md",
+   "questions/page-01.md"
+  ]
+ },
+ {
+  "version": 5,
+  "createdAt": "2026-05-10T14:35:11Z",
+  "message": "grow | the parts that changed",
+  "author": "example",
+  "sha": "0000000000000000000000000000000000000005",
+  "filesChanged": [
+   "_meta/page-07.md",
+   "notes/page-04.md",
+   "notes/page-08.md",
+   "notes/page-11.md",
+   "questions/page-02.md"
+  ]
+ },
+ {
+  "version": 6,
+  "createdAt": "2026-05-10T15:42:11Z",
+  "message": "sweep | the parts that changed",
+  "author": "example",
+  "sha": "0000000000000000000000000000000000000006",
+  "filesChanged": [
+   "guides/page-01.md",
+   "guides/page-04.md",
+   "guides/page-06.md",
+   "guides/page-07.md",
+   "notes/page-12.md",
+   "notes/page-13.md",
+   "questions/page-03.md"
+  ]
+ },
+ {
+  "version": 7,
+  "createdAt": "2026-05-11T16:49:11Z",
+  "message": "grow | an open question",
+  "author": "example",
+  "sha": "0000000000000000000000000000000000000007",
+  "filesChanged": [
+   "guides/page-02.md",
+   "guides/page-08.md",
+   "guides/page-09.md",
+   "notes/page-12.md",
+   "notes/page-14.md"
+  ]
+ },
+ {
+  "version": 8,
+  "createdAt": "2026-05-12T17:56:11Z",
+  "message": "schema | an open question",
+  "author": "example",
+  "sha": "0000000000000000000000000000000000000008",
+  "filesChanged": [
+   "guides/page-05.md",
+   "guides/page-08.md",
+   "notes/page-15.md"
+  ]
+ },
+ {
+  "version": 9,
+  "createdAt": "2026-05-13T09:03:11Z",
+  "message": "sweep | the first pass",
+  "author": "example",
+  "sha": "0000000000000000000000000000000000000009",
+  "filesChanged": [
+   "guides/page-10.md",
+   "notes/page-05.md",
+   "sources/page-02.md"
+  ]
+ },
+ {
+  "version": 10,
+  "createdAt": "2026-05-17T10:10:11Z",
+  "message": "ingest | the parts that changed",
+  "author": "example",
+  "sha": "000000000000000000000000000000000000000a",
+  "filesChanged": [
+   "_meta/page-08.md",
+   "guides/page-11.md",
+   "guides/page-12.md",
+   "guides/page-13.md",
+   "guides/page-14.md",
+   "notes/page-16.md",
+   "notes/page-17.md",
+   "notes/page-18.md",
+   "sources/page-02.md"
+  ]
+ },
+ {
+  "version": 11,
+  "createdAt": "2026-05-17T11:17:11Z",
+  "message": "check | a second reading",
+  "author": "example",
+  "sha": "000000000000000000000000000000000000000b",
+  "filesChanged": [
+   "_meta/page-09.md",
+   "guides/page-01.md",
+   "guides/page-09.md",
+   "notes/page-01.md",
+   "notes/page-19.md"
+  ]
+ },
+ {
+  "version": 12,
+  "createdAt": "2026-05-18T12:24:11Z",
+  "message": "schema | the parts that changed",
+  "author": "example",
+  "sha": "000000000000000000000000000000000000000c",
+  "filesChanged": [
+   "notes/page-09.md",
+   "notes/page-20.md",
+   "notes/page-21.md",
+   "questions/page-01.md"
+  ]
+ },
+ {
+  "version": 13,
+  "createdAt": "2026-05-20T13:31:11Z",
+  "message": "sweep | what the sources agree on",
+  "author": "example",
+  "sha": "000000000000000000000000000000000000000d",
+  "filesChanged": [
+   "_meta/page-10.md",
+   "_meta/page-11.md",
+   "_meta/page-12.md",
+   "notes/page-10.md",
+   "notes/page-22.md",
+   "sources/page-05.md"
+  ]
+ },
+ {
+  "version": 14,
+  "createdAt": "2026-05-24T14:38:11Z",
+  "message": "grow | what is still missing",
+  "author": "example",
+  "sha": "000000000000000000000000000000000000000e",
+  "filesChanged": [
+   "_meta/page-13.md",
+   "guides/page-11.md",
+   "guides/page-15.md",
+   "guides/page-16.md",
+   "notes/page-19.md",
+   "notes/page-23.md",
+   "page-01.md",
+   "questions/page-04.md",
+   "questions/page-05.md",
+   "sources/page-04.md",
+   "sources/page-06.md",
+   "sources/page-07.md"
+  ]
+ },
+ {
+  "version": 15,
+  "createdAt": "2026-05-26T15:45:11Z",
+  "message": "check | the first pass",
+  "author": "example",
+  "sha": "000000000000000000000000000000000000000f",
+  "filesChanged": [
+   "notes/page-24.md",
+   "questions/page-03.md",
+   "questions/page-06.md",
+   "sources/page-08.md"
+  ]
+ },
+ {
+  "version": 16,
+  "createdAt": "2026-05-30T16:52:11Z",
+  "message": "schema | the parts that changed",
+  "author": "example",
+  "sha": "0000000000000000000000000000000000000010",
+  "filesChanged": [
+   "guides/page-07.md",
+   "guides/page-08.md",
+   "notes/page-17.md",
+   "notes/page-23.md",
+   "notes/page-25.md",
+   "notes/page-26.md",
+   "questions/page-06.md",
+   "sources/page-09.md"
+  ]
+ },
+ {
+  "version": 17,
+  "createdAt": "2026-05-30T17:59:11Z",
+  "message": "schema | an open question",
+  "author": "example",
+  "sha": "0000000000000000000000000000000000000011",
+  "filesChanged": [
+   "_meta/page-14.md",
+   "guides/page-03.md",
+   "guides/page-07.md",
+   "questions/page-07.md",
+   "questions/page-08.md",
+   "questions/page-09.md",
+   "questions/page-10.md",
+   "sources/page-05.md",
+   "sources/page-10.md",
+   "sources/page-11.md",
+   "sources/page-12.md"
+  ]
+ },
+ {
+  "version": 18,
+  "createdAt": "2026-05-30T09:06:11Z",
+  "message": "grow | what the sources agree on",
+  "author": "example",
+  "sha": "0000000000000000000000000000000000000012",
+  "filesChanged": [
+   "_meta/page-08.md",
+   "_meta/page-10.md",
+   "_meta/page-14.md",
+   "_meta/page-15.md",
+   "_meta/page-16.md",
+   "notes/page-01.md",
+   "questions/page-11.md",
+   "sources/page-05.md"
+  ]
+ },
+ {
+  "version": 19,
+  "createdAt": "2026-05-31T10:13:11Z",
+  "message": "sweep | what is still missing",
+  "author": "example",
+  "sha": "0000000000000000000000000000000000000013",
+  "filesChanged": [
+   "_meta/page-17.md",
+   "guides/page-01.md",
+   "guides/page-17.md",
+   "notes/page-02.md",
+   "questions/page-07.md",
+   "questions/page-09.md",
+   "sources/page-13.md"
+  ]
+ },
+ {
+  "version": 20,
+  "createdAt": "2026-06-01T11:20:11Z",
+  "message": "schema | three loose ends",
+  "author": "example",
+  "sha": "0000000000000000000000000000000000000014",
+  "filesChanged": [
+   "notes/page-25.md"
+  ]
+ },
+ {
+  "version": 21,
+  "createdAt": "2026-06-01T12:27:11Z",
+  "message": "grow | three loose ends",
+  "author": "example",
+  "sha": "0000000000000000000000000000000000000015",
+  "filesChanged": [
+   "_meta/page-14.md",
+   "guides/page-15.md",
+   "notes/page-20.md",
+   "questions/page-06.md",
+   "questions/page-12.md"
+  ]
+ },
+ {
+  "version": 22,
+  "createdAt": "2026-06-02T13:34:11Z",
+  "message": "grow | three loose ends",
+  "author": "example",
+  "sha": "0000000000000000000000000000000000000016",
+  "filesChanged": [
+   "_meta/page-03.md",
+   "notes/page-12.md",
+   "notes/page-19.md",
+   "notes/page-27.md",
+   "notes/page-28.md"
+  ]
+ },
+ {
+  "version": 23,
+  "createdAt": "2026-06-02T14:41:11Z",
+  "message": "ingest | a second reading",
+  "author": "example",
+  "sha": "0000000000000000000000000000000000000017",
+  "filesChanged": [
+   "notes/page-25.md",
+   "questions/page-13.md",
+   "sources/page-14.md"
+  ]
+ },
+ {
+  "version": 24,
+  "createdAt": "2026-06-03T15:48:11Z",
+  "message": "schema | what the sources agree on",
+  "author": "example",
+  "sha": "0000000000000000000000000000000000000018",
+  "filesChanged": [
+   "_meta/page-18.md",
+   "guides/page-18.md",
+   "notes/page-29.md"
+  ]
+ }
+]
