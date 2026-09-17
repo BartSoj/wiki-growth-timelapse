@@ -7,6 +7,10 @@ written, and fades when it is deleted. A date ticks, a page counter and a line c
 in, video out — and the build refuses to render a wiki that never was: it replays every version and
 stops unless the replay lands on the repository's tree file by file and line by line.
 
+![A frame of the invented example wiki: folders as labelled bands, files as tiles, a date, a page counter and a line counter](docs/example-frame.png)
+
+*One frame of the made-up example wiki that ships with the repository — `python3 scripts/make_example.py` and you can render this yourself.*
+
 Built for [Syns](https://syns.dev) wikis, which is what the snapshot step reads. Any other
 version-control system needs one adapter script and nothing else — see
 [Another version-control system](#another-version-control-system).
